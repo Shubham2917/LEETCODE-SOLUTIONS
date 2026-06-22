@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1840-maximum-building-height](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1840-maximum-building-height) |
 ## Math
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [1840-maximum-building-height](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1840-maximum-building-height) |
 ## Hash Table
 |  |
@@ -48,4 +50,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Greedy
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0581-shortest-unsorted-continuous-subarray) |
 <!---LeetCode Topics End-->
