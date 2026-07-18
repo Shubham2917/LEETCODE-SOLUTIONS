@@ -11,12 +11,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1331-rank-transform-of-an-array) |
 | [1840-maximum-building-height](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1840-maximum-building-height) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3620-network-recovery-pathways) |
 ## Math
 |  |
 | ------- |
 | [1840-maximum-building-height](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1840-maximum-building-height) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3700-number-of-zigzag-arrays-ii) |
 ## Sorting
 |  |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3620-network-recovery-pathways) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
