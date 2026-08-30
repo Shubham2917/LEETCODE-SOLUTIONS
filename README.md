@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0657-robot-return-to-origin](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -136,5 +137,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0657-robot-return-to-origin](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/2075-decode-the-slanted-ciphertext) |
 <!---LeetCode Topics End-->
