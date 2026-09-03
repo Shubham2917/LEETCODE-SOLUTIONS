@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3620-network-recovery-pathways) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Math
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Sorting
 |  |
 | ------- |
