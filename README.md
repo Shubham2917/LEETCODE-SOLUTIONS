@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0115-distinct-subsequences](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [0657-robot-return-to-origin](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [1189-maximum-number-of-balloons](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0115-distinct-subsequences) |
 | [3620-network-recovery-pathways](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3620-network-recovery-pathways) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3699-number-of-zigzag-arrays-i) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3700-number-of-zigzag-arrays-ii) |
