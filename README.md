@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/2075-decode-the-slanted-ciphertext) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Sliding Window
 |  |
@@ -159,4 +160,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/0657-robot-return-to-origin) |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/2075-decode-the-slanted-ciphertext) |
+| [3498-reverse-degree-of-a-string](https://github.com/Shubham2917/LEETCODE-SOLUTIONS/tree/master/3498-reverse-degree-of-a-string) |
 <!---LeetCode Topics End-->
